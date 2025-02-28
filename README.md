@@ -13,7 +13,7 @@
 ```bash
 python benchmarl/run.py algorithm=mappo task=vmas/balance
 ```
-
+Check out the [PIPELINE](https://colab.research.google.com/drive/15BEztFzdzpeXDPf0ny63_KRPlpqVn_xJ)
 
 [![Examples](https://img.shields.io/badge/Examples-blue.svg)](examples) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb)
 [![Static Badge](https://img.shields.io/badge/Benchmarks-Wandb-yellow)](https://wandb.ai/matteobettini/benchmarl-public/reportlist)

@@ -2,8 +2,8 @@ defaults:
   - experiment: base_experiment
   - algorithm: ???
   - task: ???
-  - model: layers/mlp
-  - model@critic_model: layers/mlp
+  - model: layers/cnn
+  - model@critic_model: layers/cnn
   - _self_
 
 seed: 0
